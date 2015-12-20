@@ -10,7 +10,7 @@
   "version": "0.4.2",
   "license": "MIT",
   "dependencies": {
-    "async.map": "0.4.2",
+    "async.map": "0.4.3",
     "async.util.times": "0.4.2"
   },
   "keywords": [
